@@ -4,9 +4,9 @@
 body {
   font-size: 14px;
 }
-.v1_2 {
-  width: 100%;
-  height: 982px;
+.v6_42 {
+  width: 756px;
+  height: 545px;
   background: rgba(255,255,255,1);
   opacity: 1;
   position: relative;
@@ -14,251 +14,138 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v1_3 {
-  width: 639px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 77px;
-  left: 83px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 72px;
-  opacity: 1;
-  text-align: left;
-}
-.v1_117 {
-  width: 100%;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 596px;
-  left: 83px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
-  opacity: 1;
-  text-align: left;
-}
-.v4_7 {
-  width: 675px;
-  height: 336px;
-  background: url("../images/v4_7.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
+.v6_43 {
+  width: 55px;
+  height: 51px;
+  background: rgba(0,0,0,1);
   opacity: 1;
   position: absolute;
-  top: 544px;
-  left: 332px;
-  transform: rotate(-153deg);
-  overflow: hidden;
+  top: 203px;
+  left: 82px;
 }
-.v4_25 {
+.v6_44 {
+  width: 61px;
+  height: 54px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 141px;
+  left: 85px;
+}
+.v6_45 {
+  width: 72px;
+  height: 81px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 85px;
+  left: 137px;
+}
+.v6_46 {
+  width: 47px;
+  height: 58px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 155px;
+  left: 194px;
+}
+.v6_47 {
   width: 48px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 222px;
-  left: 566px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
+  height: 52px;
+  background: rgba(0,0,0,1);
   opacity: 1;
-  text-align: left;
-  transform: rotate(-57deg);
-}
-.v4_26 {
-  width: 54px;
-  color: rgba(0,0,0,1);
   position: absolute;
-  top: 299px;
-  left: 554px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
-  opacity: 1;
-  text-align: left;
-  transform: rotate(-46deg);
-}
-.v4_27 {
-  width: 60px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 345px;
-  left: 488px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
-  opacity: 1;
-  text-align: left;
-  transform: rotate(-33deg);
-}
-.v4_28 {
-  width: 51px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 305px;
-  left: 425px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
-  opacity: 1;
-  text-align: left;
-  transform: rotate(-21deg);
-}
-.v4_29 {
-  width: 24px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 317px;
-  left: 391px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
-  opacity: 1;
-  text-align: left;
-  transform: rotate(-13deg);
-}
-.v4_30 {
-  width: 58px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 378px;
-  left: 325px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
-  opacity: 1;
-  text-align: left;
-  transform: rotate(-3deg);
-}
-.v4_31 {
-  width: 24px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 328px;
-  left: 292px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
-  opacity: 1;
-  text-align: left;
-}
-.v4_32 {
-  width: 58px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 369px;
-  left: 217px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
-  opacity: 1;
-  text-align: left;
-}
-.v4_33 {
-  width: 54px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 306px;
+  top: 99px;
   left: 196px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
-  opacity: 1;
-  text-align: left;
 }
-.v4_34 {
-  width: 48px;
-  color: rgba(0,0,0,1);
+.v6_48 {
+  width: 57px;
+  height: 68px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
   position: absolute;
-  top: 259px;
-  left: 160px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
-  opacity: 1;
-  text-align: left;
+  top: 113px;
+  left: 118px;
 }
-.v4_35 {
-  width: 58px;
-  color: rgba(0,0,0,1);
+.v6_49 {
+  width: 50px;
+  height: 59px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
   position: absolute;
-  top: 254px;
-  left: 107px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
-  opacity: 1;
-  text-align: left;
+  top: 175px;
+  left: 105px;
 }
-.v4_36 {
+.v6_50 {
+  width: 55px;
+  height: 57px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 216px;
+  left: 94px;
+}
+.v6_51 {
+  width: 73px;
+  height: 58px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 218px;
+  left: 67px;
+}
+.v6_52 {
   width: 54px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 191px;
-  left: 88px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
+  height: 56px;
+  background: rgba(0,0,0,1);
   opacity: 1;
-  text-align: left;
+  position: absolute;
+  top: 275px;
+  left: 43px;
 }
-.v4_37 {
-  width: 58px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 156px;
-  left: 33px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
+.v6_53 {
+  width: 79px;
+  height: 52px;
+  background: rgba(0,0,0,1);
   opacity: 1;
-  text-align: left;
+  position: absolute;
+  top: 301px;
+  left: 4px;
 }
-.v4_38 {
-  width: 59px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 103px;
-  left: 32px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
+.v6_54 {
+  width: 53px;
+  height: 49px;
+  background: rgba(0,0,0,1);
   opacity: 1;
-  text-align: left;
+  position: absolute;
+  top: 343px;
+  left: 60px;
 }
-.v4_39 {
-  width: 51px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 44px;
-  left: 37px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
+.v6_55 {
+  width: 55px;
+  height: 47px;
+  background: rgba(0,0,0,1);
   opacity: 1;
-  text-align: left;
+  position: absolute;
+  top: 388px;
+  left: 62px;
 }
-.v4_40 {
-  width: 57px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 6px;
-  left: 44px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
+.v6_56 {
+  width: 65px;
+  height: 64px;
+  background: rgba(0,0,0,1);
   opacity: 1;
-  text-align: left;
+  position: absolute;
+  top: 417px;
+  left: 59px;
 }
-.v4_41 {
-  width: 57px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 51px;
-  left: 20px;
-  font-family: Ubuntu;
-  font-weight: Bold;
-  font-size: 96px;
+.v6_57 {
+  width: 56px;
+  height: 51px;
+  background: rgba(0,0,0,1);
   opacity: 1;
-  text-align: left;
+  position: absolute;
+  top: 451px;
+  left: 38px;
 }
