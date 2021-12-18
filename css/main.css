@@ -15,10 +15,22 @@ body {
   overflow: hidden;
 }
 .v1_3 {
-  width: 639px;
+  width: 338px;
   color: rgba(0,0,0,1);
   position: absolute;
   top: 77px;
+  left: 83px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 64px;
+  opacity: 1;
+  text-align: left;
+}
+.v1_117 {
+  width: 869px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 236px;
   left: 83px;
   font-family: Ubuntu;
   font-weight: Bold;
@@ -26,27 +38,15 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v1_117 {
+.v7_75 {
   width: 100%;
   color: rgba(0,0,0,1);
   position: absolute;
-  top: 596px;
+  top: 319px;
   left: 83px;
   font-family: Ubuntu;
   font-weight: Bold;
   font-size: 96px;
-  opacity: 1;
-  text-align: left;
-}
-.v7_58 {
-  width: 791px;
-  color: rgba(0,0,0,1);
-  position: absolute;
-  top: 128px;
-  left: 77px;
-  font-family: Ubuntu;
-  font-weight: Light;
-  font-size: 36px;
   opacity: 1;
   text-align: left;
 }
