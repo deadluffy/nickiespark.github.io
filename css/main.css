@@ -38,3 +38,227 @@ body {
   opacity: 1;
   text-align: left;
 }
+.v4_7 {
+  width: 675px;
+  height: 336px;
+  background: url("../images/v4_7.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 544px;
+  left: 332px;
+  transform: rotate(-153deg);
+  overflow: hidden;
+}
+.v4_25 {
+  width: 48px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 222px;
+  left: 566px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+  transform: rotate(-57deg);
+}
+.v4_26 {
+  width: 54px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 299px;
+  left: 554px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+  transform: rotate(-46deg);
+}
+.v4_27 {
+  width: 60px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 345px;
+  left: 488px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+  transform: rotate(-33deg);
+}
+.v4_28 {
+  width: 51px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 305px;
+  left: 425px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+  transform: rotate(-21deg);
+}
+.v4_29 {
+  width: 24px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 317px;
+  left: 391px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+  transform: rotate(-13deg);
+}
+.v4_30 {
+  width: 58px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 378px;
+  left: 325px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+  transform: rotate(-3deg);
+}
+.v4_31 {
+  width: 24px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 328px;
+  left: 292px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_32 {
+  width: 58px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 369px;
+  left: 217px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_33 {
+  width: 54px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 306px;
+  left: 196px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_34 {
+  width: 48px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 259px;
+  left: 160px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_35 {
+  width: 58px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 254px;
+  left: 107px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_36 {
+  width: 54px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 191px;
+  left: 88px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_37 {
+  width: 58px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 156px;
+  left: 33px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_38 {
+  width: 59px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 103px;
+  left: 32px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_39 {
+  width: 51px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 44px;
+  left: 37px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_40 {
+  width: 57px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 6px;
+  left: 44px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+}
+.v4_41 {
+  width: 57px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 51px;
+  left: 20px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 96px;
+  opacity: 1;
+  text-align: left;
+}
